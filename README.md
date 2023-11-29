@@ -46,7 +46,7 @@ It is based on of the Clear Blue theme ingame. Of course it won't be perfect as 
 
 <p align="center">
   <img src="/Images/ClearBlue-Dalamud_PluginWindow.png" height="350"/> &nbsp; &nbsp;
-  <img src="/Images/ClearBlue-Dalamud_ColursTab.png" height="350"/>
+  <img src="/Images/ClearBlue-Dalamud_ColoursTab.png" height="350"/>
 </p>
 </section>
 
