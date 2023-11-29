@@ -66,7 +66,7 @@ DS1H4sIAAAAAAAACqVYS1PcOBD+K1s+U5TekrkF2A2HZIsKbGWzNzNjZhzMeNZjCAmV/57WoyXZnsmDz
 1. Open the Dalamud Settings window by typing `/xlsettings` into the game chat or press `Esc` and select '🇩 Dalamud Settings' from the main menu.
 2. Navigate to the `Look & Feel` tab at the top of the window.
 3. Click `Open Style Editor`.
-4. Copy the text from the [Source](https://github.com/ExecThTs/ClearBlue-Dalamud/edit/main/README.md#source) section immediately above <br> (can also be found [here](https://github.com/ExecThTs/ClearBlue-Dalamud/blob/main/theme.txt)).
+4. Copy the text from the [Source](#source) section immediately above <br> (can also be found [here](https://github.com/ExecThTs/ClearBlue-Dalamud/blob/main/theme.txt)).
 5. Near the top, click on the `Import style from clipboard` button. <br><br> <img src="/Images/Dalamud_Import_Icon.png" height="50"/>
 6. Ensure the theme is selected in the `Choose Style` box.
 7. Enjoy!
